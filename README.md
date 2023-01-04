@@ -1,6 +1,6 @@
 ### 又是一位大佬光临我的主页呢！
 # `this.getBriefInfo()` -->
-  这里是``MineCreeper86``，普通的初三技术宅，有强烈的为小⑤的知名项目做出贡献~~其实说白了就是女装~~的冲动，喜欢数学~~但不怎么喜欢几何~~的男孩子，在技术上毫无建树，梦想院校是清华。近期致力于推广理解性学习。有常年不更新的[博客](https://minecreeper.evanluo.top/)一个，写了些文笔很烂的议论文，还有些我自己的学习思考，希望各位大佬莅临参观。
+  这里是``MineCreeper86``，普通的初三技术宅，有强烈的为小⑤的知名项目做出贡献~~其实说白了就是女装~~的冲动，喜欢数学~~但不怎么喜欢几何~~的男孩子，在技术上毫无建树，梦想院校是清华。近期致力于推广理解性学习。有常年不更新的[博客](https://minecreeper.top/)一个，写了些文笔很烂的议论文，还有些我自己的学习思考，希望各位大佬莅临参观。
 
 This is ``MineCreeper86``, a common Junior 3 male geek, have intense impulse to contribute on the famous repo of Satori-Komeiji ~~In fact, dressing up like women~~, like Maths ~~Not geometry~~, no remarkable advancement on technology, dream school is Tsinghua. Focusing on making people better understand their knowledge recently. Have a not-regularly-updated [blog](https://minecreeper.evanluo.top/) and've written some bad articles and thought of study, hope you'll visit.
 
@@ -21,6 +21,13 @@ This is ``MineCreeper86``, a common Junior 3 male geek, have intense impulse to 
  ``Java`` >> ``Python`` = ``C`` > ``JavaScript`` > ``Visual Basic``
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MineCreeper86&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+# `this.getProjects()` -->
+  在你站虽然也码了不少代码，但Star不多（毕竟全是一时兴起的半成品很正常），勉强能用的大概也就这几个，语言类型和方面都超级广（（
+  
+  Although I've coded a lot, but there aren't so many stars (It's quite normal since my works are almost all semi-finished products). These several ones may be the only ones can be barely used and covers a huge range of language types and aspects.
+  
+- [Moegirl Recover](https://github.com/MineCreeper86/moegirl-recover)
 <!--
 **MineCreeper86/MineCreeper86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
