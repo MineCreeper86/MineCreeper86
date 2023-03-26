@@ -35,3 +35,7 @@ This is ``MineCreeper86``, a common Junior 3 male geek, have intense impulse to 
   以RNN算法为核心，将文字通过密码加密为一串自然语言文本的程序。
   
   A program using RNN algorithm as the core, to encrypt text into another natural language text throught a password.
+  
+  基于原子及原子核物理的简单无机物溶解度计算器。
+  
+  A inorganic compound solubility calculator based on Atomatic & Nuclear Physics.
