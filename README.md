@@ -29,7 +29,11 @@ This is ``MineCreeper86``, a common Junior 3 male geek, have intense impulse to 
   
 - [Moegirl Recover](https://github.com/MineCreeper86/moegirl-recover)
 
-（别问为什么只有一个，问就是我的项目基本都是什么给某个群专门开发的bot之类的，写死的东西很多没法拿出来）
+- [JCSUF](https://github.com/EvanNotFound/JCSUF) (as main collaborator)
+
+- [Bilibili API Collect](https://github.com/SocialSisterYi/bilibili-api-collect) (as main collaborator)
+
+（别问为什么只有这点，问就是我的项目基本都是什么给某个群专门开发的bot之类的，写死的东西很多没法拿出来）
 
 # `this.getWorkingProject()` -->
   以RNN算法为核心，将文字通过密码加密为一串自然语言文本的程序。
