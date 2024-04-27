@@ -3,9 +3,9 @@
 
 **所有项目都在持续维护，用出问题了提issue就行**
 # `this.getBriefInfo()` -->
-  这里是``MineCreeper86``，普通的高一技术宅，中考摆烂壬，有强烈的为小⑤的（Archived -\_-）知名项目做出贡献~~其实说白了就是女装~~的冲动，喜欢数学~~但不怎么喜欢几何~~，在技术上毫无建树，梦想院校是清华。近期致力于推广理解性学习。有常年不更新的[博客](https://minecreeper.top/)一个，写了些文笔很烂的议论文，还有些我自己的学习思考，希望各位大佬莅临参观。
+  这里是``MineCreeper86``，普通的高一技术宅，中考摆烂壬，有强烈的为小⑤的（Archived -\_-）知名项目做出贡献~~其实说白了就是女装~~的冲动，喜欢数学~~但不怎么喜欢几何~~，在技术上毫无建树，梦想院校是清华。有常年不更新的[博客](https://minecreeper.top/)一个，写了些文笔很烂的议论文，还有些我自己的学习思考，希望各位大佬莅临参观。
 
-This is ``MineCreeper86``, a common pre-Senior 1 geek, have intense impulse to contribute on the famous repo of Satori-Komeiji ~~In fact, feminine dressing~~, like Maths ~~Not geometry~~, no remarkable advancement on technology, dream school is Tsinghua. Focusing on making people better understand their knowledge recently. Have a not-regularly-updated [blog](https://minecreeper.top/) and've written some bad articles and thought of study, hope you'll visit.
+This is ``MineCreeper86``, a common pre-Senior 1 geek, have intense impulse to contribute on the famous repo of Satori-Komeiji ~~In fact, feminine dressing~~, like Maths ~~Not geometry~~, no remarkable advancement on technology, dream school is Tsinghua. Have a not-regularly-updated [blog](https://minecreeper.top/) and've written some bad articles and thought of study, hope you'll visit.
 
 - 屎山低创半成品轮子注意！~~能跑就行~~
 - 当心云二刺螈！
@@ -13,6 +13,7 @@ This is ``MineCreeper86``, a common pre-Senior 1 geek, have intense impulse to c
 - 疑似发现你站最大有害垃圾！
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MineCreeper86&count_private=true&theme=cobalt&show_icons=true)
+![My OSU Profile](https://osekai.net/profiles/img/banner.svg?id=35432727)
 
 # `this.getCodingSkill()` -->
   二年级在父亲引导下体验了``Visual Basic``但英语水平受限没有深入；从五年级开始正式接触``Java``，暂时没有系统性地参与过课程；五年级首次接触Microbit单片机，初一购入Arduino并因此学习``C``；初二开始因为项目需要尝试了``Python``，``JavaScript``但功底极差。
