@@ -13,7 +13,7 @@ This is ``MineCreeper86``, a common pre-Senior 1 geek, have intense impulse to c
 - 疑似发现你站最大有害垃圾！
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MineCreeper86&count_private=true&theme=cobalt&show_icons=true)
-![My OSU Profile](https://osekai.net/profiles/img/banner.svg?id=35432727#)
+![My OSU Profile](https://osekai.net/profiles/img/banner.svg?id=35432727?0=0)
 
 # `this.getCodingSkill()` -->
   二年级在父亲引导下体验了``Visual Basic``但英语水平受限没有深入；从五年级开始正式接触``Java``，暂时没有系统性地参与过课程；五年级首次接触Microbit单片机，初一购入Arduino并因此学习``C``；初二开始因为项目需要尝试了``Python``，``JavaScript``但功底极差。
