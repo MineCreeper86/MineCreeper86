@@ -2,7 +2,7 @@
 
 **所有项目都在持续维护，用出问题了提issue就行**
 # `this.getBriefInfo()` -->
-  这里是``MineCreeper86``，普通的全栈高二技术宅，十足的摆烂壬，有强烈的为小⑤的（Archived -\_-）知名项目做出贡献~~其实说白了就是女装~~的冲动，喜欢数学~~但不怎么喜欢几何~~，在技术上毫无建树，梦想院校是清华（考得上吗……）。有常年不更新的[博客](https://minecreeper.top/)一个，写了些文笔很烂的议论文，还有些我自己的学习思考，希望各位大佬莅临参观。
+  这里是``MineCreeper86``，普通的全栈高二技术宅，十足的摆烂壬，有强烈的为小⑤的（Archived -\_-）知名项目做出贡献~~其实说白了就是女装~~的冲动，喜欢数学~~但不怎么喜欢几何和代数~~，在技术上毫无建树，梦想院校是清华（考得上吗……）。有常年不更新的[博客](https://minecreeper.top/)一个，写了些文笔很烂的议论文，还有些我自己的学习思考，希望各位大佬莅临参观。
 
 This is ``MineCreeper86``, a common full stack Senior 2 geek, have intense impulse to contribute on the famous repo of Satori-Komeiji ~~In fact, feminine dressing~~, like Maths ~~Not geometry~~, no remarkable advancement on technology, dream school is Tsinghua. Have a not-regularly-updated [blog](https://minecreeper.top/) and've written some bad articles and thought of study, hope you'll visit.
 
