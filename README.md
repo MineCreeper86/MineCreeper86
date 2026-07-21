@@ -2,12 +2,11 @@
 
 **所有项目都在持续维护，用出问题了提issue就行**
 # `this.getBriefInfo()` -->
-  这里是``MineCreeper86``，普通的全栈高三技术宅，喜欢数学~~但不怎么喜欢解析几何~~，在技术上毫无建树，梦想院校是上海交通大学（AI/致远）。
+  这里是``MineCreeper86``，普通的全栈大一技术宅，就读于上海交通大学。喜欢数学~~但不怎么喜欢解析几何~~，在技术上毫无建树。
 
-This is ``MineCreeper86``, a common full stack Senior 3 geek, like Maths ~~but not analytic geometry~~, no remarkable advancement on technology, dream school is SJTU.
+This is ``MineCreeper86``, a common full stack freshman geek in SJTU, like Maths ~~but not analytic geometry~~, no remarkable advancement on technology.
 - 屎山低创半成品轮子注意！~~能跑就行~~
 - 当心云二刺螈！
-- 你要糟！是N难度飞机佬！
 - 疑似发现你站最大有害垃圾！
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MineCreeper86&count_private=true&theme=cobalt&show_icons=true)
